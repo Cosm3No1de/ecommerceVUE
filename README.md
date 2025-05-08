@@ -2,7 +2,7 @@
 
 Este es un proyecto de tienda virtual desarrollado con Vue.js, enfocado en la experiencia del usuario y un diseño limpio y responsivo.
 
-![Vista previa](assets/portadapp1.png)
+![Vista previa](/src/assets/portadapp1.png)
 
 ## 🧰 Tecnologías utilizadas
 
